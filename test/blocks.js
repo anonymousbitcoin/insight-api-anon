@@ -3,7 +3,7 @@
 var should = require('should');
 var sinon = require('sinon');
 var BlockController = require('../lib/blocks');
-var bitcore = require('bitcore-lib-btcp');
+var bitcore = require('bitcore-lib-anon-latest');
 var _ = require('lodash');
 
 var blocks = require('./data/blocks.json');
