@@ -4,7 +4,7 @@
   "version": "0.4.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/BTCPrivate/insight-api-btcp.git"
+    "url": "git://github.com/anonymousbitcoin/insight-api-anon.git"
   },
   "contributors": [
     {
@@ -45,15 +45,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/BTCPrivate/insight-api-btcp/issues"
+    "url": "https://github.com/anonymousbitcoin/insight-api-anon/issues"
   },
-  "homepage": "https://github.com/BTCPrivate/insight-api-btcp",
+  "homepage": "https://github.com/anonymousbitcoin/insight-api-anon",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "btcp api",
+    "anon api",
     "blockchain api",
     "json",
     "bitcore"
