@@ -70,7 +70,6 @@
     "async": "*",
     "bitcore-lib-anon": "github:anonymousbitcoin/bitcore-lib-anon",
     "bitcore-message-anon": "anonymousbitcoin/bitcore-message-anon",
-    "bitcore-message-btcp": "github:BTCPrivate/bitcore-message-btcp",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
