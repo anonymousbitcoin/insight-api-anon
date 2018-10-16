@@ -68,7 +68,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-anon": "git://github.com/anonymousbitcoin/bitcore-lib-anon.git",
+    "bitcore-lib-anon": "git://github.com/anonymousbitcoin/bitcore-lib-anon.git#55d88e2916028a9477afa65a56b80154e6f42c9a",
     "bitcore-message-anon": "git://github.com/anonymousbitcoin/bitcore-message-anon.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
