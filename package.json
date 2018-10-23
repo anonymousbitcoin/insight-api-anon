@@ -1,7 +1,7 @@
 {
   "name": "insight-api-anon",
   "description": "Anon blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.4.3",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/anonymousbitcoin/insight-api-anon.git"
@@ -68,8 +68,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-anon": "git://github.com/anonymousbitcoin/bitcore-lib-anon.git#de99b17a653c4ca3ffff1ea77d0e8158a7abdca8",
-    "bitcore-message-anon": "git://github.com/anonymousbitcoin/bitcore-message-anon.git",
+    "bitcore-lib-anon": "^1.0.3",
+    "bitcore-message-anon": "^1.0.0",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
