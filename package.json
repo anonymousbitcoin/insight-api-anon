@@ -1,7 +1,7 @@
 {
   "name": "insight-api-anon",
   "description": "Anon blockchain REST and web socket API service for Bitcore Node.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/anonymousbitcoin/insight-api-anon.git"
