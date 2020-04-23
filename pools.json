@@ -14,6 +14,13 @@
     ]
   },
   {
+    "poolName": "ALTpool.pro",
+    "url": "http://anon.altpool.pro",
+    "searchStrings": [
+      "altpool.pro http://altpool.pro"
+    ]
+  },
+  {
     "poolName": "Someone using equihash-solomining!",
     "url": "https://github.com/aayanl/equihash-solomining",
     "searchStrings": [
